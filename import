@@ -4,3 +4,4 @@ import (
 	"fmt"
 stateRoot,
 		proof.Address
+types.StateAccount
