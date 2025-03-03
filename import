@@ -2,3 +2,5 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
+stateRoot,
+		proof.Address
