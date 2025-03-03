@@ -1,0 +1,2 @@
+type proofDB struct {
+	m map[string][]byte
