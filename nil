@@ -1,3 +1,4 @@
 func (p *proofDB) Has(key []byte) (bool, error) {
 	_, ok := p.m[string(key)]
 	return ok, nil
+proof.AccountProof,
